@@ -6,3 +6,4 @@
 #### การใช้งานและความแตกต่าง immutable กับ mutable
 #### การเขียน function ใน rust
 #### การทำงาน control-flow if else, loop, match
+#### การทำงาน Onwership และ การทำงาน Borrowing ของ rust  
